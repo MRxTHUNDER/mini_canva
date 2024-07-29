@@ -7,5 +7,7 @@ Here is a Canva_clone but with very limited features
 ## Features and Functionality 
 
 The Features includes Add Text, Font Size and Font Color.
+
 It  also have Undo function.
+
 The provided workspace can be used freely as tthe users need.
