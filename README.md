@@ -1,16 +1,11 @@
 # canva_clone
 
-A new Flutter project.
+Here is a Canva_clone but with very limited features
 
-## Getting Started
+![Screenshot 2024-07-30 024917](https://github.com/user-attachments/assets/6e001d55-9db8-4e07-9f04-0a12730c85b7)
 
-This project is a starting point for a Flutter application.
+## Features and Functionality 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Features includes Add Text, Font Size and Font Color.
+It  also have Undo function.
+The provided workspace can be used freely as tthe users need.
